@@ -50,9 +50,8 @@ Plataforma Open Source de Business Intelligence com foco em performance e format
 Stack:
 - Quarkus (API)
 - Apache Arrow (IPC Stream)
-- Polars (Data Processing)
+- DuckDB
 - Arquivos versionáveis (.goytadata)
-- Arquitetura inspirada em VertiPaq
 
 Objetivo:
 Criar alternativa leve e extensível para análise de dados local-first.
