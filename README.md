@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Edivan Carvalho
 
 💻 Engenheiro de Dados  
-🏗️ Criador do Ethon (Cluster Manager para Big Data)  
 📊 Criador do GoytaData (Plataforma Open Source de BI)  
 ☁️ Azure | AWS | Big Data | Arquitetura Distribuída  
 
@@ -25,22 +24,6 @@ Atualmente desenvolvendo soluções próprias focadas em Big Data e Analytics.
 ---
 
 # 🧠 Projetos Autorais
-
-## 🏗️ Ethon
-
-Plataforma Open Source para gerenciamento e observabilidade de clusters Big Data.
-
-Arquitetura:
-- Server-Agent
-- Java 21 + Quarkus
-- Thrift RPC
-- PostgreSQL
-- Redis
-- Observabilidade e automação distribuída
-
-Objetivo:
-Reduzir dependência de soluções proprietárias e oferecer autonomia operacional em ambientes distribuídos.
-
 ---
 
 ## 📊 GoytaData
