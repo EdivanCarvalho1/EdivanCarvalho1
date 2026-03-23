@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Edivan Carvalho
 
 💻 Engenheiro de Dados  
-📊 Criador do GoytaData (Plataforma Open Source de BI)  
 ☁️ Azure | AWS | Big Data | Arquitetura Distribuída  
 
 ---
@@ -16,30 +15,10 @@ Experiência prática com:
 - Streaming e mensageria (Kafka / Flink)
 - Arquiteturas Data Lake
 - Governança e Segurança da Informação
-- Modelagem e otimização de bancos PostgreSQL
+- Modelagem e otimização de bancos PostgreSQL e SQL Server
 - Criptografia de dados sensíveis em tempo real
 
 Atualmente desenvolvendo soluções próprias focadas em Big Data e Analytics.
-
----
-
-# 🧠 Projetos Autorais
----
-
-## 📊 GoytaData
-
-Plataforma Open Source de Business Intelligence com foco em performance e formatos abertos.
-
-Stack:
-- Quarkus (API)
-- Apache Arrow (IPC Stream)
-- DuckDB
-- Arquivos versionáveis (.goytadata)
-
-Objetivo:
-Criar alternativa leve e extensível para análise de dados local-first.
-
----
 
 # 🏢 Experiência Profissional
 
