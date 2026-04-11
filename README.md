@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Edivan Carvalho
+# Olá, eu sou Edivan Carvalho
 
 💻 Engenheiro de Dados  
 ☁️ Azure | AWS | Big Data | Arquitetura Distribuída  
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Engenheiro de Dados com experiência em ambientes corporativos de grande porte, atuando em projetos estratégicos de modernização de arquiteturas de dados em Azure e AWS.
 
@@ -20,7 +20,7 @@ Experiência prática com:
 
 Atualmente desenvolvendo soluções próprias focadas em Big Data e Analytics.
 
-# 🏢 Experiência Profissional
+# Experiência Profissional
 
 **Estagiário em Engenharia de Dados — SERPRO**
 
@@ -33,7 +33,7 @@ Atualmente desenvolvendo soluções próprias focadas em Big Data e Analytics.
 
 ---
 
-# 🛠️ Stack Técnica
+# Stack Técnica
 
 ## Linguagens
 Python • Java • SQL • Shell Script
@@ -53,7 +53,7 @@ Docker • Kubernetes • Git • GitHub
 
 ---
 
-# 📈 Estatísticas
+# Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdivanCarvalho1&show_icons=true&theme=tokyonight)
 
@@ -61,8 +61,7 @@ Docker • Kubernetes • Git • GitHub
 
 ---
 
-# 📫 Contato
+# Contato
 
-📍 Campos dos Goytacazes - RJ  
-📧 edivanjuniorfreitas@hotmail.com  
+📍 Rio de Janeiro
 🔗 LinkedIn: https://www.linkedin.com/in/edivan-carvalho-801a22268/
