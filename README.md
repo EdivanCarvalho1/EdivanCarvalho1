@@ -53,14 +53,6 @@ Docker • Kubernetes • Git • GitHub
 
 ---
 
-# Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdivanCarvalho1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdivanCarvalho1&layout=compact&theme=tokyonight)
-
----
-
 # Contato
 
 📍 Rio de Janeiro
